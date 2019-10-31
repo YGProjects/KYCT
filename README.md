@@ -1,5 +1,5 @@
 # KYCT
-Tress, Plants and climate are intricately linked to each other and share a symbiotic relationship. Trees and plants need the right climatic conditions for growth and in return help flourish the climate and natural ecosystem. However not all trees and climates gel well. So while a particular tree may be suitable for a certain region, it may not be beneficial in another. Understanding these intricacies and compatibility could be quite daunting for non-specialists. To help them, an application can be build that can -
+Tress, Plants and climate of a place are intricately linked to each other and share a symbiotic relationship. Trees and plants need the right climatic conditions for growth and in return help flourish the climate and natural ecosystem. However not all trees and climates gel well. So while a particular tree may be suitable for a certain region, it may not be beneficial in another. Understanding these intricacies and compatibility could be quite daunting for non-specialists. To help them, an application can be build that can -
 
 Sense the surrounding climatic conditions (sunlight, moisture, soil type etc.)
 Pull additional details from other sources e.g. rainfall details, pollution levels, water table levels
